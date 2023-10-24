@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border:border-box;
+}
+.my-name-first{
+    font-family: Arial;
+    color: rgba(0, 0, 0, 0.942);
+    margin-right:10px;
+    font-weight: 100;
+}
+.my-name-last{
+    font-family: Arial;
+    color: black;
+}
+.my-name{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.ul-list{
+    display:flex ;
+    justify-content: center;
+    margin-right:5px;
+    margin-bottom: 5px;
+}
+.my-email{
+    margin-left:6px;
+    margin-right: 11px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+.my-ph-no{
+    margin-left:1px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+.my-email-icon{
+    font-size: 1.1rem;
+}
+.my-education{
+    margin-left: 50px;
+}
+.education-text{
+    font-size: 1.2rem;
+    margin-bottom: 6px;
+    font-weight: 800;
+    color: black;
+}
